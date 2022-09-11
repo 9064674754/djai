@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    font-size:25px;
+}
+.note{
+    color: black;
+    font-size: 20px;
+}
+body{
+    background-size: cover;
+}
+.musicshow{
+    float: left;
+}
+.volume{
+            width: 400px;
+            height: 400px;
+}
+.egg{
+    font-size: 30px;
+}
+.musicshowegg{
+    float: right;
+}
+.volumeegg{
+            width: 400px;
+            height: 400px;
+}
+.eggegg{
+    font-size: 30px;
+}
+.potato{
+    margin-top: 50px;
+    font-size: 50px;
+    border-radius: 10px;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
